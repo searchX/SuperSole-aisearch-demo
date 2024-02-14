@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import { makeServer } from "./server";
 
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 import { ShoesContextProvider } from "./Context/DataContext";
 import { FilterContextProvider } from "./Context/FiltersContext";
@@ -18,7 +18,7 @@ makeServer();
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <AuthContextProvider>
         <ShoesContextProvider>
           <CartContextProvider>
@@ -32,7 +32,7 @@ ReactDOM.render(
           </CartContextProvider>
         </ShoesContextProvider>
       </AuthContextProvider>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );

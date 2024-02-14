@@ -98,6 +98,8 @@ export function makeServer({ environment = "development" } = {}) {
       this.post("/user/address", addNewAddressHandler.bind(this));
       this.post("/user/address/:addressId", editAddressHandler.bind(this));
       this.delete("/user/address/:addressId", removeAddressHandler.bind(this));
+
+      this.passthrough("https://api.neurotaskai.com/**"); // Pass through a request to myApiServer2
     },
   });
 }
