@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/SuperSole-aisearch-demo/static/css/main.73e37d3e.css",
+    "main.js": "/SuperSole-aisearch-demo/static/js/main.84bb127f.js",
+    "static/media/male-shoes.jpg": "/SuperSole-aisearch-demo/static/media/male-shoes.44e6c0fa9a721dc6deae.jpg",
+    "static/media/female-shoes.jpg": "/SuperSole-aisearch-demo/static/media/female-shoes.f961bdc383dd102db5ca.jpg",
+    "static/media/kids-shoes.jpg": "/SuperSole-aisearch-demo/static/media/kids-shoes.b81ecc8014b3e9729bc1.jpg",
+    "static/media/shoesChanging Gif.gif": "/SuperSole-aisearch-demo/static/media/shoesChanging Gif.f8002cfe4f2910c9cf0d.gif",
+    "static/media/poster1.png": "/SuperSole-aisearch-demo/static/media/poster1.42e3f93498b2497c0fae.png",
+    "static/media/poster3.png": "/SuperSole-aisearch-demo/static/media/poster3.86f4af93766946aa97f5.png",
+    "static/media/shoes gif.gif": "/SuperSole-aisearch-demo/static/media/shoes gif.eac64769f63553c33355.gif",
+    "static/media/empty_cart.png": "/SuperSole-aisearch-demo/static/media/empty_cart.27abffc47e130f30ade8.png",
+    "static/media/Bata.png": "/SuperSole-aisearch-demo/static/media/Bata.a879174334e6d60d59b9.png",
+    "static/media/pageNotFound.png": "/SuperSole-aisearch-demo/static/media/pageNotFound.1f18292646521f5c2fe0.png",
+    "static/media/empty_wishlist.png": "/SuperSole-aisearch-demo/static/media/empty_wishlist.538b0049c98d9b20eb86.png",
+    "static/media/Reebok.png": "/SuperSole-aisearch-demo/static/media/Reebok.42a00566893f4c4ab71b.png",
+    "static/media/Adidas.png": "/SuperSole-aisearch-demo/static/media/Adidas.6912a763c515be3b4203.png",
+    "static/media/skethers.jpeg": "/SuperSole-aisearch-demo/static/media/skethers.b6f1c193288ca949229f.jpeg",
+    "static/media/Puma.png": "/SuperSole-aisearch-demo/static/media/Puma.cd0391f8be4f838c7208.png",
+    "static/media/Nike.png": "/SuperSole-aisearch-demo/static/media/Nike.ece4d443511a97620fd6.png",
+    "static/media/fila.webp": "/SuperSole-aisearch-demo/static/media/fila.d6ddbcf6d5c7d1266124.webp",
+    "index.html": "/SuperSole-aisearch-demo/index.html",
+    "main.73e37d3e.css.map": "/SuperSole-aisearch-demo/static/css/main.73e37d3e.css.map",
+    "main.84bb127f.js.map": "/SuperSole-aisearch-demo/static/js/main.84bb127f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e37d3e.css",
+    "static/js/main.84bb127f.js"
+  ]
+}
