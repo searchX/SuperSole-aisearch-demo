@@ -371,7 +371,7 @@
     "price": 1300,
     "originalPrice": 2000,
     "rating": 1.5,
-    "gender": "kids"
+    "gender": "Kids"
   },
   {
     "_id": "53308d41-0307-477f-a537-b0b5b4aaeb35",
@@ -382,7 +382,7 @@
     "price": 1500,
     "originalPrice": 2500,
     "rating": 2.9,
-    "gender": "kids"
+    "gender": "Kids"
   },
   {
     "_id": "b6a27ea9-7260-4cab-ba14-4b3425ea396b",
@@ -393,7 +393,7 @@
     "price": 2210,
     "originalPrice": 3200,
     "rating": 3.5,
-    "gender": "kids"
+    "gender": "Kids"
   },
   {
     "_id": "IE7270_MCH33",
