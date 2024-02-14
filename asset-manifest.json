@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SuperSole-aisearch-demo/static/css/main.73e37d3e.css",
-    "main.js": "/SuperSole-aisearch-demo/static/js/main.84bb127f.js",
+    "main.js": "/SuperSole-aisearch-demo/static/js/main.f4854b07.js",
     "static/media/male-shoes.jpg": "/SuperSole-aisearch-demo/static/media/male-shoes.44e6c0fa9a721dc6deae.jpg",
     "static/media/female-shoes.jpg": "/SuperSole-aisearch-demo/static/media/female-shoes.f961bdc383dd102db5ca.jpg",
     "static/media/kids-shoes.jpg": "/SuperSole-aisearch-demo/static/media/kids-shoes.b81ecc8014b3e9729bc1.jpg",
@@ -21,10 +21,10 @@
     "static/media/fila.webp": "/SuperSole-aisearch-demo/static/media/fila.d6ddbcf6d5c7d1266124.webp",
     "index.html": "/SuperSole-aisearch-demo/index.html",
     "main.73e37d3e.css.map": "/SuperSole-aisearch-demo/static/css/main.73e37d3e.css.map",
-    "main.84bb127f.js.map": "/SuperSole-aisearch-demo/static/js/main.84bb127f.js.map"
+    "main.f4854b07.js.map": "/SuperSole-aisearch-demo/static/js/main.f4854b07.js.map"
   },
   "entrypoints": [
     "static/css/main.73e37d3e.css",
-    "static/js/main.84bb127f.js"
+    "static/js/main.f4854b07.js"
   ]
 }
