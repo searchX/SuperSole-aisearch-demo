@@ -71,6 +71,14 @@ export const ProductDetail = () => {
         >
           {findShoe?.name}
         </h4>
+        <h4
+          className="shoe_detail_name"
+          style={{
+            fontFamily: "Rokkitt, Georgia, serif",
+          }}
+        >
+          {findShoe?.description}
+        </h4>
         <h4 style={{ fontFamily: "Rokkitt, Georgia, serif" }}>
           {" "}
           Reviews :{" "}
@@ -103,17 +111,17 @@ export const ProductDetail = () => {
           </p>
         </div>
         <h4 style={{ fontFamily: "Rokkitt, Georgia, serif" }}>
-          Availability:{" "}
+          Raw:{" "}
           <span style={{ fontSize: "1rem", fontWeight: "500" }}>
-            {findShoe?.inStock ? "In stock" : "Out of stock"}
+           {<pre>{JSON.stringify(findShoe, null, 2)}</pre>}
           </span>
         </h4>
-        <h4 style={{ fontFamily: "Rokkitt, Georgia, serif" }}>
+        {/* <h4 style={{ fontFamily: "Rokkitt, Georgia, serif" }}>
           Delivery:{" "}
           <span style={{ fontSize: "1rem", fontWeight: "500" }}>
             {findShoe?.delivery}
           </span>
-        </h4>
+        </h4> */}
         {isPresentInCart(findShoe) !== -1 ? (
           <button className="go_to_cart">
             {" "}
